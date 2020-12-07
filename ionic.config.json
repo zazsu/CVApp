@@ -1,0 +1,7 @@
+{
+  "name": "CvApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
